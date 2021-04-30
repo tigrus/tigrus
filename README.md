@@ -1,6 +1,6 @@
 Привет. 
 
-Я не знаю, что тебя сюда привело. Продолжить беседу мы можем в [facebook](https://www.facebook.com/nikolay.fominykh). 
+Со мной можно связаться в [facebook](https://www.facebook.com/nikolay.fominykh). Facebook - мой основной канал связи с новыми людьми. 
 
 <!--
 **tigrus/tigrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
